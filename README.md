@@ -1,6 +1,6 @@
-# CSS-generators-for-web-developers
+# CSS Generators for Web Developers
 
-### Table of Contents
+### Table of Content
 - [CSS Grid Generators](#css-grid-generators)
 - [Flexbox Generators](#flexbox-generators)
 - [Border Generators](#border-generators)
