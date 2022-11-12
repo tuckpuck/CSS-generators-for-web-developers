@@ -1,5 +1,35 @@
 # CSS-generators-for-web-developers
 
+### Table of Contents
+- [CSS Grid Generators](#css-grid-generators)
+- [Flexbox Generators](#flexbox-generators)
+- [Border Generators](#border-generators)
+- [Border Radius Generators](#border-radius-generators)
+- [Box Model Generators](#box-model-generators)
+- [Box-Shadow Generators](#box-shadow-generators)
+- [Text, Typography, and Scaling](#text--typography--and-scaling)
+- [Button Generators](#button-generators)
+- [Page Separator and Wave Generators](#page-separator-and-wave-generators)
+- [Animations, Keyframes, and Cubic-bezier Generators](#animations--keyframes--and-cubic-bezier-generators)
+- [Neumorphic Design Generators](#neumorphic-design-generators)
+- [Glassmorphism Generators](#glassmorphism-generators)
+- [Clip-path and Shapes](#clip-path-and-shapes)
+- [Blob Generators](#blob-generators)
+- [Background Generators](#background-generators)
+- [CSS and SVG Patterns](#css-and-svg-patterns)
+- [PNG and JPG Patterns](#png-and-jpg-patterns)
+- [Gradient Generators](#gradient-generators)
+- [Mesh Gradient Generators](#mesh-gradient-generators)
+- [List Generators](#list-generators)
+- [Multi-Column Generators](#multi-column-generators)
+- [Filter Effect Generators](#filter-effect-generators)
+- [Cursor Customization](#cursor-customization)
+- [Switches and Toggles](#switches-and-toggles)
+- [Scrollbar Generators](#scrollbar-generators)
+- [Color Picker](#color-picker)
+- [Table Generators](#table-generators)
+- [Media Query Generators](#media-query-generators)
+
 ## CSS Grid Generators
 
 [CSS Grid Generator](https://cssgrid-generator.netlify.app/)  
